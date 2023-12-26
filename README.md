@@ -1,0 +1,2 @@
+# CapstoneProjectMachineLearningSentimentAnalysisDashboardNewsHeadline
+News headline model for Sentiment analysis dashboard
